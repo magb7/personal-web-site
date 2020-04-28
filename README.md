@@ -3,6 +3,7 @@
 Personal project created with reactJs during my training as a web developer at the Wild Code School (Lille, France).
 
 Project start: **march 2020**
+
 Project end:
 
 Wireframing realised with Figma.
