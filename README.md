@@ -7,16 +7,16 @@ Project end:
 
 Wireframing realised with Figma.
 
-# Time spent
+## Time spent
 
 Wireframing: 3 days and a half so far
 
 Development time:
 
-# Features in developement/improvements
+## Features in developement/improvements
 
 - [ ] reusable components
 - [ ] homepage
 - [ ] all pages (details comming)
 
-# Production
+## Production
