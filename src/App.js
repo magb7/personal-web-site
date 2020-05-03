@@ -1,8 +1,15 @@
 import React from "react";
-import "./App.css";
+import { Switch, Route } from "react-router-dom";
 
 function App() {
-  return <div>Hello world !</div>;
+  return (
+    <>
+      {/* <Switch>
+        <Route exact path="/" />
+      </Switch> */}
+      <div>Hello world !</div>
+    </>
+  );
 }
 
 export default App;
