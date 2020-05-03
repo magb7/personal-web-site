@@ -18,6 +18,6 @@ Development time:
 
 - [ ] reusable components
 - [ ] homepage
-- [ ] all pages (details comming)
+- [ ] all pages (details coming)
 
 ## Production
