@@ -1,0 +1,40 @@
+@import "../../style/variables";
+
+.footer-wrapper {
+  width: 100vw;
+  height: 300px;
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center;
+  justify-content: space-around;
+
+  .icons-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+
+    .icon {
+      font-size: 51px;
+      color: $lightDarkBlue;
+    }
+
+    .icon:hover {
+      color: $yellow;
+    }
+  }
+
+  p {
+    font-family: $font-poppins;
+    font-size: 20px;
+    letter-spacing: 0.1rem;
+    color: $darkBlue;
+  }
+}
+
+/* MEDIA QUERY */
+
+@media screen and (max-width: 480px) {
+  .footer-wrapper p {
+    font-size: 16px;
+  }
+}
