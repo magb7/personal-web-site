@@ -1,0 +1,20 @@
+@import "../../style/variables";
+
+button {
+  background-color: $darkBlue;
+  color: $yellow;
+  font-family: $font-poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  box-shadow: 3px 3px 4px rgba(255, 214, 110, 0.67);
+  border-radius: 8px;
+  border: none;
+  padding: 8px 22px;
+}
+
+button:hover {
+  background: $yellow;
+  box-shadow: 3px 3px 4px #14345b;
+  color: $darkBlue;
+}

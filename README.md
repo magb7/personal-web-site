@@ -12,11 +12,11 @@ Wireframing realised with Figma.
 
 Wireframing: 3 days and a half so far
 
-Development time:
+Development time: 3 hours for now
 
 ## Features in developement/improvements
 
-- [ ] reusable components
+- [ ] reusable components (in progress)
 - [ ] homepage
 - [ ] all pages (details coming)
 
