@@ -11,7 +11,7 @@ Wireframing realised with Figma.
 
 Wireframing: 3 days and a half so far
 
-Development time: 3 hours for now
+Development time: 4 hours for now
 
 ## Features in developement/improvements
 
